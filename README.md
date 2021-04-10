@@ -1,2 +1,2 @@
-# sql-challenge
+# SQL-Challenge
 This is the home work for Washu dataviz bootcamp
